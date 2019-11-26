@@ -1,0 +1,29 @@
+.subtitle {
+  font-size: 1.5rem;
+}
+
+.list-group-item.disabled, 
+.list-group-item:disabled {
+  color: #155724;
+  background-color: #c3e6cb;
+}
+
+.taskDone,
+.taskDone:hover,
+.taskDone:focus {
+  text-decoration: line-through;
+}
+
+.taskAdd {
+  width: 100%;
+}
+
+@media (min-width: 992px) {
+  .subtitle {
+    font-size: 2rem;
+  }
+
+  .taskAdd {
+    width: auto;
+  }
+}
