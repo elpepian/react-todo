@@ -1,3 +1,9 @@
+# Hello
+
+You can view the app running from /build folder here: https://elpepian.github.io/react-todo/build/index.html
+
+Also :point_down:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
